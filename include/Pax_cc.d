@@ -1,0 +1,52 @@
+
+# DO NOT DELETE
+
+pax.so: /app/cern/root_v5.34.34/include/TFile.h
+pax.so: /app/cern/root_v5.34.34/include/TDirectoryFile.h
+pax.so: /app/cern/root_v5.34.34/include/TDirectory.h
+pax.so: /app/cern/root_v5.34.34/include/TNamed.h
+pax.so: /app/cern/root_v5.34.34/include/TObject.h
+pax.so: /app/cern/root_v5.34.34/include/Rtypes.h
+pax.so: /app/cern/root_v5.34.34/include/RConfig.h
+pax.so: /app/cern/root_v5.34.34/include/RVersion.h
+pax.so: /app/cern/root_v5.34.34/include/DllImport.h
+pax.so: /app/cern/root_v5.34.34/include/Rtypeinfo.h
+pax.so: /app/cern/root_v5.34.34/include/snprintf.h
+pax.so: /app/cern/root_v5.34.34/include/strlcpy.h
+pax.so: /app/cern/root_v5.34.34/include/TGenericClassInfo.h
+pax.so: /app/cern/root_v5.34.34/include/TSchemaHelper.h
+pax.so: /app/cern/root_v5.34.34/include/TStorage.h
+pax.so: /app/cern/root_v5.34.34/include/TVersionCheck.h
+pax.so: /app/cern/root_v5.34.34/include/Riosfwd.h
+pax.so: /app/cern/root_v5.34.34/include/TBuffer.h
+pax.so: /app/cern/root_v5.34.34/include/TString.h
+pax.so: /app/cern/root_v5.34.34/include/TMathBase.h
+pax.so: /app/cern/root_v5.34.34/include/TList.h
+pax.so: /app/cern/root_v5.34.34/include/TSeqCollection.h
+pax.so: /app/cern/root_v5.34.34/include/TCollection.h
+pax.so: /app/cern/root_v5.34.34/include/TIterator.h
+pax.so: /app/cern/root_v5.34.34/include/TDatime.h
+pax.so: /app/cern/root_v5.34.34/include/TUUID.h
+pax.so: /app/cern/root_v5.34.34/include/TMap.h
+pax.so: /app/cern/root_v5.34.34/include/THashTable.h
+pax.so: /app/cern/root_v5.34.34/include/TUrl.h
+pax.so: /app/cern/root_v5.34.34/include/TTree.h
+pax.so: /app/cern/root_v5.34.34/include/TBranch.h
+pax.so: /app/cern/root_v5.34.34/include/TObjArray.h
+pax.so: /app/cern/root_v5.34.34/include/TAttFill.h
+pax.so: /app/cern/root_v5.34.34/include/TDataType.h
+pax.so: /app/cern/root_v5.34.34/include/TDictionary.h
+pax.so: /app/cern/root_v5.34.34/include/Property.h
+pax.so: /app/cern/root_v5.34.34/include/ESTLType.h
+pax.so: /app/cern/root_v5.34.34/include/TAttLine.h
+pax.so: /app/cern/root_v5.34.34/include/TAttMarker.h
+pax.so: /app/cern/root_v5.34.34/include/TArrayD.h
+pax.so: /app/cern/root_v5.34.34/include/TArray.h
+pax.so: /app/cern/root_v5.34.34/include/TArrayI.h
+pax.so: /app/cern/root_v5.34.34/include/TClass.h
+pax.so: /app/cern/root_v5.34.34/include/TObjString.h
+pax.so: /app/cern/root_v5.34.34/include/ThreadLocalStorage.h
+pax.so: /app/cern/root_v5.34.34/include/RConfigure.h
+pax.so: /app/cern/root_v5.34.34/include/TVirtualTreePlayer.h
+pax.so: /app/cern/root_v5.34.34/include/cintdictversion.h /app/cern/root_v5.34.34/include/RVersion.h
+pax__ROOTBUILDVERSION= 5.34/34
